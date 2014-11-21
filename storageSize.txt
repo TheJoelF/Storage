@@ -1,0 +1,11 @@
+Available:	24.64 GB (24,639,0744 bytes)
+  Capacity:	24.76 GB (24,756,215,808 bytes)
+  Mount Point:	/Volumes/Data
+  File System:	Journaled HFS+
+  Writable:	Yes
+  Ignore Ownership:	No
+  BSD Name:	disk0s3
+  Volume UUID:	482DE083-2D97-3248-A173-CD
+
+Free space on Macintosh HD - 140.72 GB
+
